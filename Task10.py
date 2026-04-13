@@ -10,3 +10,6 @@ if is_palindrome(word):
     print("Palindrome")
 else:
     print("Not palindrome")
+   
+# Time Complexity: O(n^2)
+# Space Complexity: O(n^2)
