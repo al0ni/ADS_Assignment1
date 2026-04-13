@@ -7,3 +7,5 @@ user_input = input()
 arr = [int(x) for x in user_input.split()]
 
 print(array_sum(arr))
+# Time Complexity: O(n^2)
+# Space Complexity: O(n^2)
