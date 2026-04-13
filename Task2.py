@@ -5,3 +5,5 @@ def print_n_to_1(n):
 
 n = int(input())
 print_n_to_1(n)
+# Time Complexity: O(n)
+# Space Complexity: O(n)
