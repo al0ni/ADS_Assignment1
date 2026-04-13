@@ -5,3 +5,5 @@ def factorial(n):
 
 n = int(input())
 print(factorial(n))
+# Time Complexity: O(n)
+# Space Complexity: O(n)
