@@ -8,3 +8,5 @@ user_input = input()
 arr = [int(x) for x in user_input.split()]
 target = int(input())
 print(count_occurrences(arr, target))
+# Time Complexity: O(n^2)
+# Space Complexity: O(n^2)
