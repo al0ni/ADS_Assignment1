@@ -5,3 +5,5 @@ def count_digits(n):
 
 n = int(input())
 print(count_digits(n))
+# Time Complexity: O(log n)
+# Space Complexity: O(log n)
