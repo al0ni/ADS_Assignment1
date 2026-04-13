@@ -7,3 +7,5 @@ def array_max(arr):
 user_input = input()
 arr = [int(x) for x in user_input.split()]
 print(array_max(arr))
+# Time Complexity: O(n^2)
+# Space Complexity: O(n^2)
