@@ -5,3 +5,5 @@ def fibonacci(n):
 
 n = int(input())
 print(fibonacci(n))
+# Time Complexity: O(2^n)
+# Space Complexity: O(n)
