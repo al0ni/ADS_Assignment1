@@ -5,3 +5,5 @@ def reverse_number(n, rev=0):
 
 n = int(input())
 print(reverse_number(n))
+# Time Complexity: O(log n)
+# Space Complexity: O(log n)
