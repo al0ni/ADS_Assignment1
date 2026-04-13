@@ -6,3 +6,6 @@ def power(a, b):
 a = int(input())
 b = int(input())
 print(power(a, b))
+
+# Time Complexity: O(b)
+# Space Complexity: O(b)
