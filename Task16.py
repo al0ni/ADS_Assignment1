@@ -17,3 +17,6 @@ if index != -1:
     print(f"Element found at index {index}")
 else:
     print("Not found")
+
+# Time Complexity: O(log n)
+# Space Complexity: O(log n)
